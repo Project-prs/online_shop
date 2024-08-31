@@ -1,0 +1,23 @@
+import 'package:flutter/material.dart';
+
+Color whiteColor = const Color(0xffFFFFFF);
+Color blackColor = const Color(0xff000000);
+Color darkblueColor = const Color(0xff3D5BF6);
+Color yelloColor = const Color(0xffFFBB0D);
+Color redColor = const Color(0xffFF4747);
+Color lightgrey = const Color(0xffDDDDDD);
+Color bottomNavColor = const Color(0xff05313d);
+Color greyColor = const Color(0xff9e9e9e);
+Color ligthGreyColor = const Color(0xffA7AEC1);
+Color blueColor = const Color(0xff2196f3);
+Color greenColor = const Color(0xff00ff00);
+Color brownColor = const Color(0xff481f01);
+Color orangeColor = const Color(0xffff9933);
+Color lightYello = const Color(0xfff4c430);
+Color textcolor = const Color(0xFF071731);
+Color bordercolor = const Color(0xffF5F2FB);
+Color buttoncolor = const Color(0xff042628);
+Color transparent = Colors.transparent;
+Color greytext = const Color(0xff97A2B0);
+Color yelloColor2 = const Color(0xffFFBB0D);
+Color lightBlack = const Color(0xFF730000);

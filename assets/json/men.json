@@ -1,0 +1,112 @@
+[
+    {
+        "id": "1",
+        "name": "Adidas Superstar Kids",
+        "category": "sneaker",
+        "price": "60.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/718bSZO8++L._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/61Z9LJIYepL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/71s4yJYxVjL._AC_UL300_SR300,200_.jpg"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Nike Air Max 90 Kids",
+        "category": "sneaker",
+        "price": "75.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/61YIGF+3skL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/710Pcdc+KtL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/71PrqmWXJ8L._AC_UL600_SR600,400_.jpg"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Puma Suede Classic Kids",
+        "category": "sneaker",
+        "price": "55.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/7138gB6X8NL._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/51DiZce32mL._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/61caYFuVm3L._AC_UL600_SR600,400_.jpg"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Reebok Club C Kids",
+        "category": "sneaker",
+        "price": "50.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/71s4yJYxVjL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/61YIGF+3skL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/710Pcdc+KtL._AC_UL300_SR300,200_.jpg"
+        ]
+    },
+    {
+        "id": "5",
+        "name": "New Balance 574 Kids",
+        "category": "sneaker",
+        "price": "65.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/71PrqmWXJ8L._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/7138gB6X8NL._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/51DiZce32mL._AC_UL600_SR600,400_.jpg"
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Asics Gel-Contend 7 Kids",
+        "category": "sneaker",
+        "price": "55.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/71cflgAolqL._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/61Z9LJIYepL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/71s4yJYxVjL._AC_UL300_SR300,200_.jpg"
+        ]
+    },
+    {
+        "id": "7",
+        "name": "Converse Kids Chuck Taylor All Star",
+        "category": "sneaker",
+        "price": "40.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/51DiZce32mL._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/61caYFuVm3L._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/61Z9LJIYepL._AC_UL300_SR300,200_.jpg"
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Vans Old Skool Kids",
+        "category": "sneaker",
+        "price": "45.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/71cflgAolqL._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/710Pcdc+KtL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/718bSZO8++L._AC_UL300_SR300,200_.jpg"
+        ]
+    },
+    {
+        "id": "9",
+        "name": "Under Armour Kids Assert 8",
+        "category": "sneaker",
+        "price": "55.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/61caYFuVm3L._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/61YIGF+3skL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/710Pcdc+KtL._AC_UL300_SR300,200_.jpg"
+        ]
+    },
+    {
+        "id": "10",
+        "name": "Jordan Kids Air Jordan 1",
+        "category": "sneaker",
+        "price": "70.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/61Z9LJIYepL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/71PrqmWXJ8L._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/71cflgAolqL._AC_UL600_SR600,400_.jpg"
+        ]
+    }
+]

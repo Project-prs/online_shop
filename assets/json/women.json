@@ -1,0 +1,222 @@
+[
+    {
+        "id": "1",
+        "name": "Adidas NMD R1",
+        "category": "sneaker",
+        "price": "140.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/718bSZO8++L._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/61Z9LJIYepL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/71s4yJYxVjL._AC_UL300_SR300,200_.jpg"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Nike Air Zoom Pegasus 37",
+        "category": "sneaker",
+        "price": "120.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/61YIGF+3skL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/710Pcdc+KtL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/71PrqmWXJ8L._AC_UL600_SR600,400_.jpg"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Puma Cali",
+        "category": "sneaker",
+        "price": "80.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/7138gB6X8NL._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/51DiZce32mL._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/61caYFuVm3L._AC_UL600_SR600,400_.jpg"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Reebok Classic Leather",
+        "category": "sneaker",
+        "price": "75.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/71s4yJYxVjL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/61YIGF+3skL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/710Pcdc+KtL._AC_UL300_SR300,200_.jpg"
+        ]
+    },
+    {
+        "id": "5",
+        "name": "New Balance Fresh Foam Roav",
+        "category": "sneaker",
+        "price": "100.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/71PrqmWXJ8L._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/7138gB6X8NL._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/51DiZce32mL._AC_UL600_SR600,400_.jpg"
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Asics Gel-Excite 8",
+        "category": "sneaker",
+        "price": "90.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/71cflgAolqL._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/61Z9LJIYepL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/71s4yJYxVjL._AC_UL300_SR300,200_.jpg"
+        ]
+    },
+    {
+        "id": "7",
+        "name": "Converse Chuck Taylor All Star Lift",
+        "category": "sneaker",
+        "price": "70.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/51DiZce32mL._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/61caYFuVm3L._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/61Z9LJIYepL._AC_UL300_SR300,200_.jpg"
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Vans Authentic",
+        "category": "sneaker",
+        "price": "50.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/71cflgAolqL._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/710Pcdc+KtL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/718bSZO8++L._AC_UL300_SR300,200_.jpg"
+        ]
+    },
+    {
+        "id": "9",
+        "name": "Under Armour HOVR Sonic 4",
+        "category": "sneaker",
+        "price": "110.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/61caYFuVm3L._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/61YIGF+3skL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/710Pcdc+KtL._AC_UL300_SR300,200_.jpg"
+        ]
+    },
+    {
+        "id": "10",
+        "name": "Jordan Air Jordan 1 Mid",
+        "category": "sneaker",
+        "price": "125.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/61Z9LJIYepL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/71PrqmWXJ8L._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/71cflgAolqL._AC_UL600_SR600,400_.jpg"
+        ]
+    },
+    {
+        "id": "11",
+        "name": "Adidas Superstar",
+        "category": "sneaker",
+        "price": "85.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/718bSZO8++L._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/61Z9LJIYepL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/71s4yJYxVjL._AC_UL300_SR300,200_.jpg"
+        ]
+    },
+    {
+        "id": "12",
+        "name": "Nike Blazer Mid '77",
+        "category": "sneaker",
+        "price": "100.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/61YIGF+3skL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/710Pcdc+KtL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/71PrqmWXJ8L._AC_UL600_SR600,400_.jpg"
+        ]
+    },
+    {
+        "id": "13",
+        "name": "Puma Future Rider",
+        "category": "sneaker",
+        "price": "90.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/7138gB6X8NL._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/51DiZce32mL._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/61caYFuVm3L._AC_UL600_SR600,400_.jpg"
+        ]
+    },
+    {
+        "id": "14",
+        "name": "Reebok Zig Kinetica",
+        "category": "sneaker",
+        "price": "120.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/71s4yJYxVjL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/61YIGF+3skL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/710Pcdc+KtL._AC_UL300_SR300,200_.jpg"
+        ]
+    },
+    {
+        "id": "15",
+        "name": "New Balance 327",
+        "category": "sneaker",
+        "price": "100.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/71PrqmWXJ8L._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/7138gB6X8NL._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/51DiZce32mL._AC_UL600_SR600,400_.jpg"
+        ]
+    },
+    {
+        "id": "16",
+        "name": "Asics Gel-Nimbus 23",
+        "category": "sneaker",
+        "price": "150.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/71cflgAolqL._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/61Z9LJIYepL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/71s4yJYxVjL._AC_UL300_SR300,200_.jpg"
+        ]
+    },
+    {
+        "id": "17",
+        "name": "Converse Chuck Taylor All Star",
+        "category": "sneaker",
+        "price": "60.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/51DiZce32mL._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/61caYFuVm3L._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/61Z9LJIYepL._AC_UL300_SR300,200_.jpg"
+        ]
+    },
+    {
+        "id": "18",
+        "name": "Vans Sk8-Hi",
+        "category": "sneaker",
+        "price": "75.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/71cflgAolqL._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/710Pcdc+KtL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/718bSZO8++L._AC_UL300_SR300,200_.jpg"
+        ]
+    },
+    {
+        "id": "19",
+        "name": "Under Armour Charged Assert 9",
+        "category": "sneaker",
+        "price": "80.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/61caYFuVm3L._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/61YIGF+3skL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/710Pcdc+KtL._AC_UL300_SR300,200_.jpg"
+        ]
+    },
+    {
+        "id": "20",
+        "name": "Jordan Air Jordan 4",
+        "category": "sneaker",
+        "price": "190.00",
+        "imageUrl": [
+            "https://images-eu.ssl-images-amazon.com/images/I/61Z9LJIYepL._AC_UL300_SR300,200_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/71PrqmWXJ8L._AC_UL600_SR600,400_.jpg",
+            "https://images-eu.ssl-images-amazon.com/images/I/71cflgAolqL._AC_UL600_SR600,400_.jpg"
+        ]
+    }
+]
